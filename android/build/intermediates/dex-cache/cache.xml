@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.android/build-cache/73e0b4349a91e1313a3a34c09a2e5593e2f6485f/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_fe6f6cd9a6822fba8d5276d1666b63140915f497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.android/build-cache/73e0b4349a91e1313a3a34c09a2e5593e2f6485f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_091be84b43ab32325480753d3f7886602e51e26b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/app/init/Proj/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75d587cbefac57a5fbe88432f95e5619822b6318">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8e11ea478575afea32c0eda0e6397a0adc5a32f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_1c9b283b929166e087ebe0e32aabd2dcb926c1f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_b4e24c07aa22453426a7e313f260db17f672128a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_59622537f6306be5ef774da3740f466db3d93a40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_0e1a9e8e8e2b843146f0887a5c4b213d21c3a327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.android/build-cache/d5929ec703527815dd5cfd1f8dbbc9e06c738687/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43ff0cf7b565d134e8c29384ef6c4eadd3ad4dfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_39bca2f22f491ae60cef6ef198326446deb9b6bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.android/build-cache/d3beff256097979b742a763e817644924f501af4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46d93ecead3bae93a8faee66d5f91950623b3d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_352ca1103d70545b12af9691fbba038652666cbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.android/build-cache/e4d29fea557ebdb6ac7b90423157024582c1cdd1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f76507d120b0989b4f875fd2e18ef6f567487a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/app/init/Proj/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0e305236488855fa674ea7852e0793afde4a418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.android/build-cache/a52a07bb18db297931ed93c864e27d3ccabb3a10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0e0b176f29381b0661183c673d4d791aaf9cb09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_0fe41b8339ea71ca2435d8171cc95c6d9d18b978/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b31a6157ee58a6603b3019d5fd3959ef90f2729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/denis/.android/build-cache/a52a07bb18db297931ed93c864e27d3ccabb3a10/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6a201fecec8e3c4a31e3b939a0ab66aae38f9214/classes.dex" />
+    </item>
+
+</items>

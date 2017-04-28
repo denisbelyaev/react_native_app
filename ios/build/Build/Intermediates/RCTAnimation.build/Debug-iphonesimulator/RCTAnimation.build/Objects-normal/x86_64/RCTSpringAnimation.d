@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/denis/app/init/Proj/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.m \
+  /Users/denis/app/init/Proj/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/denis/app/init/Proj/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/denis/app/init/Proj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/denis/app/init/Proj/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/denis/app/init/Proj/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/denis/app/init/Proj/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

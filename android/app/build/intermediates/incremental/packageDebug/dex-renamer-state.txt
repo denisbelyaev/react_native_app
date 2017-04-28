@@ -1,0 +1,7 @@
+#Tue Apr 18 19:07:30 EEST 2017
+base.0=/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0e305236488855fa674ea7852e0793afde4a418
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8e11ea478575afea32c0eda0e6397a0adc5a32f8/classes.dex
+base.1=/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8e11ea478575afea32c0eda0e6397a0adc5a32f8
+file.0=/Users/denis/app/init/Proj/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0e305236488855fa674ea7852e0793afde4a418/classes.dex

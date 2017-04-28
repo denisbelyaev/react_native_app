@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/denis/app/init/Proj/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/denis/.android/build-cache/b45b8ecd45d349465b5a358ac1b3b2c2dd473fe2/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]

@@ -1,0 +1,26 @@
+module.exports = {
+
+    GOOGLE_SIGNIN_IOS_KEY: '969221018354-ft425jdl1au389o12h0s2lf85rdc94fc.apps.googleusercontent.com',
+    GOOGLE_SIGNIN_WEB_KEY: '969221018354-409nd11ahj03tvu3r4mts2rq4fmu8fbh.apps.googleusercontent.com',
+    LOGIN_TYPE: 'LOGIN_TYPE',
+    FACEBOOK_LOGIN: 'FACEBOOK_LOGIN',
+    GOOGLE_LOGIN: 'GOOGLE_LOGIN',
+    EMAIL_LOGIN: 'EMAIL_LOGIN',
+    API_TOKEN: 'API_TOKEN',
+    API_TOKEN_EXPIRATION: 'API_TOKEN_EXPIRATION',
+    USER_ID: 'USER_ID',
+    FB_TOKEN: 'FB_TOKEN',
+    FB_USER_ID: 'FB_USER_ID',
+    FB_APP_ID: 'FB_APP_ID',
+    FB_USER_NAME: "FB_USER_NAME",
+    FB_USER_EMAIL: "FB_USER_EMAIL",
+    FB_USER_IMAGE: "FB_USER_IMAGE",
+    FB_TOKEN_EXPIRATION: 'FB_TOKEN_EXPIRATION',
+    FB_TOKEN_LAST_REFRESH: 'FB_TOKEN_LAST_REFRESH',
+    PASSWORD: 'PASSWORD',
+    IS_PREMIUM: 'IS_PREMIUM',
+    IS_SIGN_NOTIFICATIONS: 'IS_SIGN_NOTIFICATIONS',
+    WORLDS: ['Golf', 'Ski', 'Horse', 'Yacht', 'Spa'],
+    API_URL: 'http://54.93.147.210/api',
+    WEBSITE_URL: 'http://test.golfskiworld.com/#/landing'
+};
